@@ -188,7 +188,7 @@ int main(void){
 
 
 ##  layout Diagram 
-![out](lcd.png)
+![out](lcd1.png)
 
 
 ## Result :
